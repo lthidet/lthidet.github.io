@@ -5,8 +5,8 @@ const projectsData = [
         description: "Plug-in pour OMNeT++ générant des environnements en 3D à partir de fichiers BIM. Présenté à l'IEEE GLOBECOM 2024.",
         description_en: "OMNeT++ plug-in generating 3D environments from BIM files. Presented at IEEE GLOBECOM 2024.",
         imageUrl: "img/projets/bomnet.jpg",
-        tags: ["BIM", "Eclipse", "Flask"],
-        tags_en: ["BIM", "TensorFlow", "Flask"],
+        tags: ["BIM", "Simulation", "IoT", "IEEE"],
+        tags_en: ["BIM", "Simulation", "IoT", "IEEE"],
         publicationUrl: "https://ieeexplore.ieee.org/document/10900994",
         codeUrl: "https://github.com/bomnet/bomnet"
     },
